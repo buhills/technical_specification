@@ -37,6 +37,10 @@ header {
   overflow-x: hidden;
 }
 
+section li {
+  margin: 10px 0 0 20px;
+}
+
 #navbar li {
   color: #4d4e53;
   border-top: 1px solid;
@@ -62,10 +66,6 @@ section article {
   color: #4d4e53;
   margin: 30px;
   font-size: 0.98em;
-}
-
-section li {
-  margin: 10px 0 0 20px;
 }
 
 code {
