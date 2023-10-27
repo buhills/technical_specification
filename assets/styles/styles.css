@@ -1,7 +1,7 @@
 body {
   min-width: 290px;
-  color : #030;
-  background-color: #fff;
+  color:#030;
+  background-color:#fff;
   font-family: 'Open Sans', Arial, Helvetica, sans-serif;
   line-height: 1.5;
 }
@@ -14,11 +14,11 @@ body {
   width: 100px;
   height: 100%;
   border-right: solid;
-  border-color: #050404;
+  border-color:#050404;
 }
 
 header {
-  color: #000;
+  color:#000;
   margin: 10px;
   text-align: center;
   font-size: 1.8em;
@@ -38,7 +38,7 @@ header {
 }
 
 #navbar li {
-  color: #4d4e53;
+  color:#4d4e53;
   border-top: 1px solid;
   list-style: none;
   position: relative;
@@ -48,7 +48,7 @@ header {
 #navbar a {
   display: block;
   padding: 10px 30px;
-  color: #4d4e53;
+  color:#4d4e53;
   text-decoration: none;
   cursor: pointer;
 }
@@ -59,7 +59,7 @@ header {
 }
 
 section article {
-  color: #4d4e53;
+  color:#4d4e53;
   margin: 30px;
   font-size: 0.98em;
 }
@@ -76,7 +76,7 @@ code {
   word-break: normal;
   line-height: 2;
   padding: 15px;
-  background-color: #b5b6bb;
+  background-color:#b5b6bb;
   margin: 10px;
   border-radius: 10px;
   width: auto;
