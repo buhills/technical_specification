@@ -70,13 +70,13 @@ code {
   position: relative;
   word-break: normal;
   line-height: 2;
-  padding: 15;
-  background-color: #b5b6bb;
+  padding: 15px;
+  padding: 15px;
+  background-color: b5b6bb;
   margin: 10px;
   border-radius: 10px;
   width: auto;
 }
-\n
 
 nav {
   display: block;
